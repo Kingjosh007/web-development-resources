@@ -53,7 +53,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://firebase.google.com |  
 | https://aws.amazon.com |  
 | https://heroku.com |  
-| https://pages.github.com |  
+| https://pages.github.com |
+| https://hostman.com |
 | https://vercel.com |  
 | https://surge.sh |  
 | https://render.com |  
